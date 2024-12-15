@@ -61,12 +61,17 @@ namespace HelloWorld
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Unidad Estatal Amazónica!");
+			Console.WriteLine("Unidad Estatal Amazónica");
+
+            Console.WriteLine("=============================================");
+
 			// Crear un objeto de la clase Circulo con un radio de 5
       Circulo miCirculo = new Circulo(5);
       Console.WriteLine("Círculo:");
       Console.WriteLine("Área: " + miCirculo.CalcularArea()); // Mostrar el área del círculo
       Console.WriteLine("Perímetro: " + miCirculo.CalcularPerimetro()); // Mostrar el perímetro del círculo
+
+        Console.WriteLine("=============================================");
 
       // Crear un objeto de la clase Cuadrado con un lado de 4
       Cuadrado miCuadrado = new Cuadrado(4);
