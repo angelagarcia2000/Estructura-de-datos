@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Estructura de datos\semana1\bin\Debug\net8.0\semana1.exe
+C:\Users\User\Desktop\Estructura de datos\semana1\bin\Debug\net8.0\semana1.deps.json
+C:\Users\User\Desktop\Estructura de datos\semana1\bin\Debug\net8.0\semana1.runtimeconfig.json
+C:\Users\User\Desktop\Estructura de datos\semana1\bin\Debug\net8.0\semana1.dll
+C:\Users\User\Desktop\Estructura de datos\semana1\bin\Debug\net8.0\semana1.pdb
+C:\Users\User\Desktop\Estructura de datos\semana1\obj\Debug\net8.0\semana1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Estructura de datos\semana1\obj\Debug\net8.0\semana1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Estructura de datos\semana1\obj\Debug\net8.0\semana1.AssemblyInfo.cs
+C:\Users\User\Desktop\Estructura de datos\semana1\obj\Debug\net8.0\semana1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estructura de datos\semana1\obj\Debug\net8.0\semana1.dll
+C:\Users\User\Desktop\Estructura de datos\semana1\obj\Debug\net8.0\refint\semana1.dll
+C:\Users\User\Desktop\Estructura de datos\semana1\obj\Debug\net8.0\semana1.pdb
+C:\Users\User\Desktop\Estructura de datos\semana1\obj\Debug\net8.0\semana1.genruntimeconfig.cache
+C:\Users\User\Desktop\Estructura de datos\semana1\obj\Debug\net8.0\ref\semana1.dll
