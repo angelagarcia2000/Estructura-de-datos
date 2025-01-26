@@ -19,13 +19,15 @@ class Program
             origen.Push(i);
         }
 
-        Console.WriteLine("Estado inicial:");
+        Console.WriteLine("\n Estado inicial:\n");
         PrintTowers(origen, auxiliar, destino);
 
         // Resuelve el problema
         Hanoi(n, origen, destino, auxiliar);
 
-        Console.WriteLine("\nEstado final:");
+        
+        Console.WriteLine("\n Estado final: \n");
+        Console.WriteLine("========Resultado=========");
         PrintTowers(origen, auxiliar, destino);
     }
 
@@ -54,7 +56,7 @@ class Program
         Console.WriteLine("Origen: " + string.Join(",", origen));
         Console.WriteLine("Auxiliar: " + string.Join(",", auxiliar));
         Console.WriteLine("Destino: " + string.Join(",", destino));
-        Console.WriteLine("----------------------------");
+        Console.WriteLine("-----------------------");
     }
 }
 
