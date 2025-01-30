@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Estructura de datos\Prctica2-LISTA-Y-PILAS\Prctica2-LISTA-Y-PILAS\bin\Debug\net9.0\Prctica2-LISTA-Y-PILAS.exe
+C:\Users\User\Desktop\Estructura de datos\Prctica2-LISTA-Y-PILAS\Prctica2-LISTA-Y-PILAS\bin\Debug\net9.0\Prctica2-LISTA-Y-PILAS.deps.json
+C:\Users\User\Desktop\Estructura de datos\Prctica2-LISTA-Y-PILAS\Prctica2-LISTA-Y-PILAS\bin\Debug\net9.0\Prctica2-LISTA-Y-PILAS.runtimeconfig.json
+C:\Users\User\Desktop\Estructura de datos\Prctica2-LISTA-Y-PILAS\Prctica2-LISTA-Y-PILAS\bin\Debug\net9.0\Prctica2-LISTA-Y-PILAS.dll
+C:\Users\User\Desktop\Estructura de datos\Prctica2-LISTA-Y-PILAS\Prctica2-LISTA-Y-PILAS\bin\Debug\net9.0\Prctica2-LISTA-Y-PILAS.pdb
+C:\Users\User\Desktop\Estructura de datos\Prctica2-LISTA-Y-PILAS\Prctica2-LISTA-Y-PILAS\obj\Debug\net9.0\Prctica2-LISTA-Y-PILAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Estructura de datos\Prctica2-LISTA-Y-PILAS\Prctica2-LISTA-Y-PILAS\obj\Debug\net9.0\Prctica2-LISTA-Y-PILAS.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Estructura de datos\Prctica2-LISTA-Y-PILAS\Prctica2-LISTA-Y-PILAS\obj\Debug\net9.0\Prctica2-LISTA-Y-PILAS.AssemblyInfo.cs
+C:\Users\User\Desktop\Estructura de datos\Prctica2-LISTA-Y-PILAS\Prctica2-LISTA-Y-PILAS\obj\Debug\net9.0\Prctica2-LISTA-Y-PILAS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estructura de datos\Prctica2-LISTA-Y-PILAS\Prctica2-LISTA-Y-PILAS\obj\Debug\net9.0\Prctica2-LISTA-Y-PILAS.sourcelink.json
+C:\Users\User\Desktop\Estructura de datos\Prctica2-LISTA-Y-PILAS\Prctica2-LISTA-Y-PILAS\obj\Debug\net9.0\Prctica2-LISTA-Y-PILAS.dll
+C:\Users\User\Desktop\Estructura de datos\Prctica2-LISTA-Y-PILAS\Prctica2-LISTA-Y-PILAS\obj\Debug\net9.0\refint\Prctica2-LISTA-Y-PILAS.dll
+C:\Users\User\Desktop\Estructura de datos\Prctica2-LISTA-Y-PILAS\Prctica2-LISTA-Y-PILAS\obj\Debug\net9.0\Prctica2-LISTA-Y-PILAS.pdb
+C:\Users\User\Desktop\Estructura de datos\Prctica2-LISTA-Y-PILAS\Prctica2-LISTA-Y-PILAS\obj\Debug\net9.0\Prctica2-LISTA-Y-PILAS.genruntimeconfig.cache
+C:\Users\User\Desktop\Estructura de datos\Prctica2-LISTA-Y-PILAS\Prctica2-LISTA-Y-PILAS\obj\Debug\net9.0\ref\Prctica2-LISTA-Y-PILAS.dll

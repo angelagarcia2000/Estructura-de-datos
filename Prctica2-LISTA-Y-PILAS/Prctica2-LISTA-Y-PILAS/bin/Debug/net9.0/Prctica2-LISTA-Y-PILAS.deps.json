@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Prctica2-LISTA-Y-PILAS/1.0.0": {
+        "runtime": {
+          "Prctica2-LISTA-Y-PILAS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prctica2-LISTA-Y-PILAS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
