@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Estructura de datos\Práctica3\Práctica3\bin\Debug\net9.0\Práctica3.exe
+C:\Users\User\Desktop\Estructura de datos\Práctica3\Práctica3\bin\Debug\net9.0\Práctica3.deps.json
+C:\Users\User\Desktop\Estructura de datos\Práctica3\Práctica3\bin\Debug\net9.0\Práctica3.runtimeconfig.json
+C:\Users\User\Desktop\Estructura de datos\Práctica3\Práctica3\bin\Debug\net9.0\Práctica3.dll
+C:\Users\User\Desktop\Estructura de datos\Práctica3\Práctica3\bin\Debug\net9.0\Práctica3.pdb
+C:\Users\User\Desktop\Estructura de datos\Práctica3\Práctica3\obj\Debug\net9.0\Práctica3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Estructura de datos\Práctica3\Práctica3\obj\Debug\net9.0\Práctica3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Estructura de datos\Práctica3\Práctica3\obj\Debug\net9.0\Práctica3.AssemblyInfo.cs
+C:\Users\User\Desktop\Estructura de datos\Práctica3\Práctica3\obj\Debug\net9.0\Práctica3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estructura de datos\Práctica3\Práctica3\obj\Debug\net9.0\Práctica3.sourcelink.json
+C:\Users\User\Desktop\Estructura de datos\Práctica3\Práctica3\obj\Debug\net9.0\Práctica3.dll
+C:\Users\User\Desktop\Estructura de datos\Práctica3\Práctica3\obj\Debug\net9.0\refint\Práctica3.dll
+C:\Users\User\Desktop\Estructura de datos\Práctica3\Práctica3\obj\Debug\net9.0\Práctica3.pdb
+C:\Users\User\Desktop\Estructura de datos\Práctica3\Práctica3\obj\Debug\net9.0\Práctica3.genruntimeconfig.cache
+C:\Users\User\Desktop\Estructura de datos\Práctica3\Práctica3\obj\Debug\net9.0\ref\Práctica3.dll
